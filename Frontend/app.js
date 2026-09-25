@@ -139,11 +139,20 @@ async function checkout(event) {
 }
 async function loadProducts(quiet = false) {
   try {
-    const response = await fetch(butcherApiURL('/api/products'), { cache: 'no-store' });
-    if (!response.ok) throw new Error('Could not load the catalog.');
-    const items = await response.json();
-    if (!Array.isArray(items)) throw new Error('The catalog data is not valid.');
-    STORE.products = items;
+    let items;
+    try {
+      const response = await fetch(butcherApiURL('/api/products'), { cache: 'no-store' });
+      if (!response.ok) throw new Error('Backend catalog unavailable.');
+      items = await response.json();
+      if (!Array.isArray(items)) throw new Error('Backend catalog is invalid.');
+    } catch {
+      // GitHub Pages is static, so use this public catalog when no backend is connected.
+      const response = await fetch(butcherAssetURL('catalog.json'), { cache: 'no-store' });
+      if (!response.ok) throw new Error('Could not load the storefront catalog.');
+      items = await response.json();
+      if (!Array.isArray(items)) throw new Error('Storefront catalog is invalid.');
+    }
+    STORE.products = items.filter(item => !item.deleted);
     renderCatalog(); renderCart();
   } catch (error) { if (!quiet) toast(error.message, true); }
 }

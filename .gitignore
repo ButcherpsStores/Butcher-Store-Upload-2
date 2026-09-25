@@ -1,0 +1,7 @@
+.DS_Store
+.env
+**/node_modules/
+Backend/
+Frontend/admin.html
+Frontend/admin.js
+START\ HERE.txt

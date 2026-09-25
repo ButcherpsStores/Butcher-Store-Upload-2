@@ -1,0 +1,38 @@
+name: Deploy storefront to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Prepare storefront files without the admin page
+        run: |
+          mkdir -p ./pages-site
+          rsync -a --exclude='admin.html' --exclude='admin.js' ./Frontend/ ./pages-site/
+      - name: Upload storefront
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./pages-site
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4

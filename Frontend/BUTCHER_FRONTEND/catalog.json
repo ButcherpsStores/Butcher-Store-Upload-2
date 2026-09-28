@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "fortnite-vbucks-800",
+    "name": "V-Bucks",
+    "category": "fortnite",
+    "price": 350,
+    "image": "/assets/products/7b4e4a5fe367158561cfa9d8.jpg",
+    "storeImage": "/assets/products/7b4e4a5fe367158561cfa9d8.jpg",
+    "options": [
+      {
+        "key": "option-800-v-bucks-766043",
+        "label": "800 V-BUCKS",
+        "price": 350
+      },
+      {
+        "key": "option-2400-v-bucks-4a8534",
+        "label": "2400 V-BUCKS",
+        "price": 700
+      },
+      {
+        "key": "option-4500-v-bucks-c733a5",
+        "label": "4500 V-BUCKS",
+        "price": 900
+      },
+      {
+        "key": "option-12500-v-bucks-01653c",
+        "label": "12500 V-BUCKS",
+        "price": 2100
+      }
+    ],
+    "packLabel": "800"
+  },
+  {
+    "id": "fortnite-crew",
+    "name": "Fortnite Crew",
+    "category": "fortnite",
+    "price": 280,
+    "image": "/assets/products/082e05bf37036899ec431552.jpg",
+    "storeImage": "/assets/products/082e05bf37036899ec431552.jpg",
+    "options": []
+  },
+  {
+    "id": "psplus-ps-plus-1-month-essintial",
+    "name": "PS PLUS 1 MONTH ESSENTIAL",
+    "category": "psplus",
+    "price": 450,
+    "image": "/assets/products/ca901662f8aab48f1b39034a.jpg",
+    "storeImage": "/assets/products/ca901662f8aab48f1b39034a.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 450
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": "psplus-ps-plus-3-month-essential",
+    "name": "PS PLUS 3 MONTH ESSENTIAL",
+    "category": "psplus",
+    "price": 850,
+    "image": "/assets/products/fe5a5a2c7876fda896f37fb9.jpg",
+    "storeImage": "/assets/products/fe5a5a2c7876fda896f37fb9.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 850
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "id": "psplus-ps-plus-12-month-essential",
+    "name": "PS PLUS 12 MONTH ESSENTIAL",
+    "category": "psplus",
+    "price": 1800,
+    "image": "/assets/products/324465e252ae2855daca92bd.jpg",
+    "storeImage": "/assets/products/324465e252ae2855daca92bd.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1800
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "id": "psplus-12-months-deluxe",
+    "name": "12 MONTHS DELUXE",
+    "category": "psplus",
+    "price": 3200,
+    "image": "/assets/products/374858aa7a4fc2f7668d26a8.jpg",
+    "storeImage": "/assets/products/374858aa7a4fc2f7668d26a8.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 3200
+      }
+    ]
+  },
+  {
+    "id": "psplus-12-month-extra",
+    "name": "12 MONTH EXTRA",
+    "category": "psplus",
+    "price": 3000,
+    "image": "/assets/products/6558ecba8d48ed8675859923.jpg",
+    "storeImage": "/assets/products/6558ecba8d48ed8675859923.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 3000
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": "psplus-ps-plus-3-month-extra",
+    "name": "PS PLUS 3 MONTH EXTRA",
+    "category": "psplus",
+    "price": 1300,
+    "image": "/assets/products/09de0c011a42eab18ac0529f.jpg",
+    "storeImage": "/assets/products/09de0c011a42eab18ac0529f.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1300
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 450
+      }
+    ]
+  },
+  {
+    "id": "psplus-ps-plus-1-month-extra",
+    "name": "PS PLUS 1 MONTH EXTRA",
+    "category": "psplus",
+    "price": 620,
+    "image": "/assets/products/6d62a92e43f1cf8c15883a5c.jpg",
+    "storeImage": "/assets/products/6d62a92e43f1cf8c15883a5c.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 620
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 270
+      }
+    ]
+  },
+  {
+    "id": "games-god-of-war-ragnarok-ps5-ps4",
+    "name": "God of War Ragnarok (ps5/ps4)",
+    "category": "games",
+    "price": 750,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_02_46_18_PM.png?v=1789386369",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 750
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "id": "games-mortal-kombat-1-ps5",
+    "name": "Mortal Kombat 1 (Ps5)",
+    "category": "games",
+    "price": 650,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7553.jpg?v=1789816625",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 650
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "id": "games-marvels-wolverine-ps5-pre-order",
+    "name": "Marvels Wolverine (PS5 Pre order)",
+    "category": "games",
+    "price": 1950,
+    "image": "/assets/products/32f6be43377c935d04934beb.jpg",
+    "storeImage": "/assets/products/32f6be43377c935d04934beb.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1950
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1450
+      }
+    ]
+  },
+  {
+    "id": "games-call-of-duty-modern-warfare-4-ps5",
+    "name": "Call of Duty: Modern Warfare 4 (PS5)",
+    "category": "games",
+    "price": 1900,
+    "image": "/assets/products/b50e8803ca22bf4759222ae7.jpg",
+    "storeImage": "/assets/products/b50e8803ca22bf4759222ae7.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1900
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "id": "games-assassins-creed-black-flag-resynced-ps5",
+    "name": "Assassins creed black flag resynced (Ps5)",
+    "category": "games",
+    "price": 1750,
+    "image": "/assets/products/63e5aeb3e2d2025d63a1e62c.jpg",
+    "storeImage": "/assets/products/63e5aeb3e2d2025d63a1e62c.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1750
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "id": "games-last-of-us-part-1-ps5-digital-deluxe-edition",
+    "name": "Last of us part 1 (Ps5 digital deluxe edition)",
+    "category": "games",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7555.jpg?v=1789816751",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1350
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": "games-wwe-2k26-ps5",
+    "name": "WWE 2K26 (PS5)",
+    "category": "games",
+    "price": 2000,
+    "image": "/assets/products/958ee20e8085fd410508ee36.jpg",
+    "storeImage": "/assets/products/958ee20e8085fd410508ee36.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2000
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "id": "games-ufc-6-ps5",
+    "name": "UFC 6 (PS5)",
+    "category": "games",
+    "price": 1950,
+    "image": "/assets/products/e005c1c012a7f7a798630406.jpg",
+    "storeImage": "/assets/products/e005c1c012a7f7a798630406.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1950
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1300
+      }
+    ]
+  },
+  {
+    "id": "games-the-last-of-us-remastered",
+    "name": "The last of us remastered",
+    "category": "games",
+    "price": 330,
+    "image": "/assets/products/cb83f09b98a091610af8b326.jpg",
+    "storeImage": "/assets/products/cb83f09b98a091610af8b326.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 330
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 160
+      }
+    ]
+  },
+  {
+    "id": "games-the-last-of-us-part-ii-ps4",
+    "name": "The Last of Us Part II",
+    "category": "games",
+    "price": 870,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_10_29_PM.png?v=1789387793",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 870
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "id": "games-resident-evil-9-ps5",
+    "name": "Resident Evil 9 (PS5)",
+    "category": "games",
+    "price": 1900,
+    "image": "/assets/products/0c02349bd2c8fef9efbf0b53.jpg",
+    "storeImage": "/assets/products/0c02349bd2c8fef9efbf0b53.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1900
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1400
+      }
+    ]
+  },
+  {
+    "id": "games-ready-or-not-ps5",
+    "name": "Ready or Not (PS5)",
+    "category": "games",
+    "price": 1300,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_16_49_PM.png?v=1789388178",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1300
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": "games-need-for-speed-payback-ps4",
+    "name": "Need for Speed: Payback (PS4)",
+    "category": "games",
+    "price": 450,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7556.jpg?v=1789816905",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262580/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 450
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "id": "games-need-for-speed-heat-ps4",
+    "name": "Need for Speed Heat (PS4)",
+    "category": "games",
+    "price": 450,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_20_23_PM.png?v=1789388394",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 450
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "id": "games-nba-2k26-ps4-ps5",
+    "name": "NBA 2K26 (PS4 / PS5)",
+    "category": "games",
+    "price": 700,
+    "image": "/assets/products/1088cee3868f3c3955b19367.jpg",
+    "storeImage": "/assets/products/1088cee3868f3c3955b19367.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 700
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "id": "games-hitman-world-of-assisnation-ps5-ps4",
+    "name": "Hitman World of Assisnation (Ps5/Ps4)",
+    "category": "games",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_25.jpg?v=1785677342",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1350
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 550
+      }
+    ]
+  },
+  {
+    "id": "games-gang-beasts-ps4-ps5-1",
+    "name": "Gang Beasts (PS4 / PS5)",
+    "category": "games",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_26.jpg?v=1785677418",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 400
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "id": "games-forza-horizon-5-ps5",
+    "name": "Forza Horizon 5 (PS5)",
+    "category": "games",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/forza-horizon-5-game-for-11730022726.webp?v=1785691779",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1350
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 950
+      }
+    ]
+  },
+  {
+    "id": "games-detroit-become-human-ps4",
+    "name": "Detroit: Become Human PS",
+    "category": "games",
+    "price": 580,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/detroit-become-human-ps4-ps5_13286067.webp?v=1785677532",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 580
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "id": "games-cyberpunk-2077-ps4-ps5",
+    "name": "Cyberpunk 2077 (PS4 / PS5)",
+    "category": "games",
+    "price": 670,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/6Bo40lnWU0BhgrOUm7Cb6by3.avif?v=1785677597",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 670
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "id": "games-007-first-light-ps5",
+    "name": "007 First Light (PS5)",
+    "category": "games",
+    "price": 1850,
+    "image": "/assets/products/af19fd51ba453f042dc03e3b.jpg",
+    "storeImage": "/assets/products/af19fd51ba453f042dc03e3b.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1850
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1250
+      }
+    ]
+  },
+  {
+    "id": "games-ghost-of-tsushima-ps4-ps5",
+    "name": "Ghost of Tsushima (PS4 / PS5)",
+    "category": "games",
+    "price": 520,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/GHOSTOFTSUSHIMA-G4U.webp?v=1785677933",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 520
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": "games-the-crew-motorfest-ps4-ps5",
+    "name": "The Crew Motorfest (PS4 / PS5)",
+    "category": "games",
+    "price": 470,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_29.jpg?v=1785677993",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2698940/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 470
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "id": "games-call-of-duty-black-ops-7-ps4-ps5",
+    "name": "Call of Duty: Black Ops 7 (PS4 / PS5)",
+    "category": "games",
+    "price": 2000,
+    "image": "/assets/products/ec4f6edd9082e0aa4c3c82c1.jpg",
+    "storeImage": "/assets/products/ec4f6edd9082e0aa4c3c82c1.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2000
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 700
+      }
+    ]
+  },
+  {
+    "id": "games-watch-dogs-2",
+    "name": "Watch dogs 2 PS",
+    "category": "games",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/4SWTZZ2ZXqYC6aYF71kmtXkZuOPFCrB8.avif?v=1785678233",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 400
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 270
+      }
+    ]
+  },
+  {
+    "id": "games-nba-2k27-standard-edition-ps5-pre-order",
+    "name": "Nba 2k27 standard edition (Ps5 Pre order)",
+    "category": "games",
+    "price": 2000,
+    "image": "/assets/products/6cee22969944ef1b8e8f97a8.jpg",
+    "storeImage": "/assets/products/6cee22969944ef1b8e8f97a8.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2000
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "games-lego-batman-legacy-of-the-dark-knight-ps5",
+    "name": "LEGO® Batman™: Legacy of the Dark Knight (PS5)",
+    "category": "games",
+    "price": 1600,
+    "image": "/assets/products/aa65e7989f10e5cef3ec225f.jpg",
+    "storeImage": "/assets/products/aa65e7989f10e5cef3ec225f.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1600
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "id": "games-mortal-kombat-11-ps5-ps4",
+    "name": "Mortal Kombat 11 (Ps5/Ps4)",
+    "category": "games",
+    "price": 200,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_37.jpg?v=1785679440",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 200
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 110
+      }
+    ]
+  },
+  {
+    "id": "games-grand-theft-auto-vi-ultimate-edition",
+    "name": "Grand theft auto VI (GTA 6) (Ultimate edition)",
+    "category": "games",
+    "price": 2900,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/479796-Product-0-I-639179079003382179.webp?v=1785691970",
+    "storeImage": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/4a35c9a8490c69fe89af0f52d4ac0249b230b4fdb12e8469.jpg?thumb=true&w=512",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2900
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 2100
+      }
+    ]
+  },
+  {
+    "id": "games-grand-theft-auto-vi-standard-edition",
+    "name": "Grand Theft Auto VI (GTA 6) (Standard Edition)",
+    "category": "games",
+    "price": 2200,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/479796-Product-0-I-639179079003382179.webp?v=1785691970",
+    "storeImage": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/4a35c9a8490c69fe89af0f52d4ac0249b230b4fdb12e8469.jpg?thumb=true&w=512",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2200
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1500
+      }
+    ]
+  },
+  {
+    "id": "games-ea-sports-fc27-ultimate-edition-ps5-ps4",
+    "name": "EA SPORTS FC™27 Ultimate Edition (PS5/PS4)",
+    "category": "games",
+    "price": 2100,
+    "image": "/assets/products/d6846d4cd289e09aaf50de99.jpg",
+    "storeImage": "/assets/products/d6846d4cd289e09aaf50de99.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 2100
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 2000
+      }
+    ]
+  },
+  {
+    "id": "games-ea-sports-fc27-standard-edition-ps5-ps4",
+    "name": "EA SPORTS FC™27 Standard Edition (PS5/PS4)",
+    "category": "games",
+    "price": 1800,
+    "image": "/assets/products/e921aae412c340e75bb3797a.jpg",
+    "storeImage": "/assets/products/e921aae412c340e75bb3797a.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1800
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 1000
+      }
+    ]
+  },
+  {
+    "id": "games-marvels-spider-man-2-ps5",
+    "name": "Marvel’s Spider-Man 2 (PS5)",
+    "category": "games",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/SpiderMan_2_1024x_2a28c291-3e12-42e5-b613-d86ceadb20f1.webp?v=1785681628",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1350
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 800
+      }
+    ]
+  },
+  {
+    "id": "games-battlefield-6-ps5",
+    "name": "Battlefield 6 (PS5)",
+    "category": "games",
+    "price": 1300,
+    "image": "/assets/products/39241456af7bc67a04ffa726.jpg",
+    "storeImage": "/assets/products/39241456af7bc67a04ffa726.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1300
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 950
+      }
+    ]
+  },
+  {
+    "id": "games-ghost-of-yotei-ps5",
+    "name": "Ghost of Yotei (PS5)",
+    "category": "games",
+    "price": 1300,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_50.jpg?v=1785681524",
+    "storeImage": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/6b25d115aa9c67253d90d788cac632064dcc9d5b68abc2bc.png?thumb=true&w=512",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 1300
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 950
+      }
+    ]
+  },
+  {
+    "id": "games-it-takes-2",
+    "name": "It takes 2 PS",
+    "category": "games",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IjqyQi0J2PL7GdEo3K8jKWMh.webp?v=1785681473",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/library_600x900_2x.jpg",
+    "options": [
+      {
+        "key": "primary",
+        "label": "Primary",
+        "price": 400
+      },
+      {
+        "key": "secondary",
+        "label": "Secondary",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "id": "pc-god-of-war-ragnarok-ps5-ps4",
+    "name": "God of War Ragnarok",
+    "category": "pcgames",
+    "price": 750,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_02_46_18_PM.png?v=1789386369",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-mortal-kombat-1-ps5",
+    "name": "Mortal Kombat 1",
+    "category": "pcgames",
+    "price": 650,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7553.jpg?v=1789816625",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-assassins-creed-black-flag-resynced-ps5",
+    "name": "Assassins creed black flag resynced",
+    "category": "pcgames",
+    "price": 1750,
+    "image": "/assets/products/25a3b161c474dc6c701706a8.jpg",
+    "storeImage": "/assets/products/25a3b161c474dc6c701706a8.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-last-of-us-part-1-ps5-digital-deluxe-edition",
+    "name": "Last of us part 1",
+    "category": "pcgames",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7555.jpg?v=1789816751",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-wwe-2k26-ps5",
+    "name": "WWE 2K26",
+    "category": "pcgames",
+    "price": 2000,
+    "image": "/assets/products/56057798977287d4812fa4c3.jpg",
+    "storeImage": "/assets/products/56057798977287d4812fa4c3.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-the-last-of-us-part-ii-ps4",
+    "name": "The Last of Us Part II",
+    "category": "pcgames",
+    "price": 870,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_10_29_PM.png?v=1789387793",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-resident-evil-9-ps5",
+    "name": "Resident Evil 9",
+    "category": "pcgames",
+    "price": 1900,
+    "image": "/assets/products/c7938314213af2f6eefd59da.jpg",
+    "storeImage": "/assets/products/c7938314213af2f6eefd59da.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-ready-or-not-ps5",
+    "name": "Ready or Not",
+    "category": "pcgames",
+    "price": 1300,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_16_49_PM.png?v=1789388178",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-need-for-speed-payback-ps4",
+    "name": "Need for Speed: Payback",
+    "category": "pcgames",
+    "price": 450,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IMG-7556.jpg?v=1789816905",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262580/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-need-for-speed-heat-ps4",
+    "name": "Need for Speed Heat",
+    "category": "pcgames",
+    "price": 450,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/ChatGPT_Image_Sep_14_2026_03_20_23_PM.png?v=1789388394",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-nba-2k26-ps4-ps5",
+    "name": "NBA 2K26",
+    "category": "pcgames",
+    "price": 700,
+    "image": "/assets/products/23ad31ee626e0a51091eccfa.jpg",
+    "storeImage": "/assets/products/23ad31ee626e0a51091eccfa.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-hitman-world-of-assisnation-ps5-ps4",
+    "name": "Hitman World of Assisnation",
+    "category": "pcgames",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_25.jpg?v=1785677342",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-gang-beasts-ps4-ps5-1",
+    "name": "Gang Beasts",
+    "category": "pcgames",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_26.jpg?v=1785677418",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-forza-horizon-5-ps5",
+    "name": "Forza Horizon 5",
+    "category": "pcgames",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/forza-horizon-5-game-for-11730022726.webp?v=1785691779",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-detroit-become-human-ps4",
+    "name": "Detroit: Become Human PS",
+    "category": "pcgames",
+    "price": 580,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/detroit-become-human-ps4-ps5_13286067.webp?v=1785677532",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-cyberpunk-2077-ps4-ps5",
+    "name": "Cyberpunk 2077",
+    "category": "pcgames",
+    "price": 670,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/6Bo40lnWU0BhgrOUm7Cb6by3.avif?v=1785677597",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-007-first-light-ps5",
+    "name": "007 First Light",
+    "category": "pcgames",
+    "price": 1850,
+    "image": "/assets/products/2a16e63ddea868b7b4a9a6be.jpg",
+    "storeImage": "/assets/products/2a16e63ddea868b7b4a9a6be.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-ghost-of-tsushima-ps4-ps5",
+    "name": "Ghost of Tsushima",
+    "category": "pcgames",
+    "price": 520,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/GHOSTOFTSUSHIMA-G4U.webp?v=1785677933",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-the-crew-motorfest-ps4-ps5",
+    "name": "The Crew Motorfest",
+    "category": "pcgames",
+    "price": 470,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_29.jpg?v=1785677993",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2698940/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-call-of-duty-black-ops-7-ps4-ps5",
+    "name": "Call of Duty: Black Ops 7",
+    "category": "pcgames",
+    "price": 2000,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/Call_of_Duty_Black_Ops_7_1000x_b0b5464d-f3f1-4dfd-9bf2-a0e42eac77e4.webp?v=1785678169",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938090/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-watch-dogs-2",
+    "name": "Watch dogs 2 PS",
+    "category": "pcgames",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/4SWTZZ2ZXqYC6aYF71kmtXkZuOPFCrB8.avif?v=1785678233",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-lego-batman-legacy-of-the-dark-knight-ps5",
+    "name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "category": "pcgames",
+    "price": 1600,
+    "image": "/assets/products/b52e21a88ead8fbdde9ed658.jpg",
+    "storeImage": "/assets/products/b52e21a88ead8fbdde9ed658.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-ea-sports-fc27-standard-edition-ps5-ps4",
+    "name": "EA SPORTS FC™27 Standard Edition",
+    "category": "pcgames",
+    "price": 1800,
+    "image": "/assets/products/f44dddae958bbc604a1b4fd8.jpg",
+    "storeImage": "/assets/products/f44dddae958bbc604a1b4fd8.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-marvels-spider-man-2-ps5",
+    "name": "Marvel’s Spider-Man 2",
+    "category": "pcgames",
+    "price": 1350,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/SpiderMan_2_1024x_2a28c291-3e12-42e5-b613-d86ceadb20f1.webp?v=1785681628",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-battlefield-6-ps5",
+    "name": "Battlefield 6",
+    "category": "pcgames",
+    "price": 1300,
+    "image": "/assets/products/ac84cb9d92746df89ab24637.jpg",
+    "storeImage": "/assets/products/ac84cb9d92746df89ab24637.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-it-takes-2",
+    "name": "It takes 2 PS",
+    "category": "pcgames",
+    "price": 400,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/IjqyQi0J2PL7GdEo3K8jKWMh.webp?v=1785681473",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/library_600x900_2x.jpg",
+    "options": []
+  },
+  {
+    "id": "pc-mortal-kombat-11-ps5-ps4",
+    "name": "Mortal Kombat 11",
+    "category": "pcgames",
+    "price": 200,
+    "image": "https://cdn.shopify.com/s/files/1/0815/2943/8453/files/images_37.jpg?v=1785679440",
+    "storeImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900_2x.jpg",
+    "options": []
+  }
+]

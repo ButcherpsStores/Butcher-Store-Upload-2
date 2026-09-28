@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="V-Bucks style coin">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9ffff"/><stop offset=".2" stop-color="#8be4fa"/><stop offset=".5" stop-color="#28a7d3"/><stop offset=".78" stop-color="#f4ffff"/><stop offset="1" stop-color="#54b5db"/></linearGradient>
+    <linearGradient id="face" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#f5ffff"/><stop offset=".42" stop-color="#aeeeff"/><stop offset="1" stop-color="#4fb7de"/></linearGradient>
+    <linearGradient id="letter" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#efffff"/><stop offset="1" stop-color="#247ca5"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="17" stdDeviation="14" flood-color="#00131e" flood-opacity=".5"/></filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <circle cx="300" cy="300" r="250" fill="#122f50" stroke="#071a30" stroke-width="22"/>
+    <circle cx="300" cy="300" r="222" fill="url(#edge)" stroke="#e9ffff" stroke-width="10"/>
+    <circle cx="300" cy="300" r="190" fill="url(#face)" stroke="#238db9" stroke-width="10"/>
+    <circle cx="300" cy="300" r="168" fill="none" stroke="#f7ffff" stroke-opacity=".8" stroke-width="5"/>
+    <path d="M184 174h69l50 153 49-153h68l-86 252h-64z" fill="#0e4c75" opacity=".5" transform="translate(8 11)"/>
+    <path d="M177 164h69l51 153 50-153h68l-87 252h-64z" fill="url(#letter)" stroke="#176c96" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M120 298h42m276 0h42M300 74v42m0 368v42" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  </g>
+</svg>

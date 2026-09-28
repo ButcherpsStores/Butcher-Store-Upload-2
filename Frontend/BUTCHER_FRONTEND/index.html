@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111112">
+  <meta name="description" content="Butcher Store — Fortnite V-Bucks, PlayStation Plus, console games and PC games.">
+  <title>Butcher Store — Play Your Way</title>
+  <link rel="preconnect" href="https://cdn.shopify.com">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="topline"><span>INDEPENDENT GAME SHOP</span><span>FORTNITE · PLAYSTATION · PC</span><span>PRICES IN EGP</span></div>
+  <header class="header">
+    <a class="brand" href="#top" aria-label="Butcher Store home"><img src="./assets/butcher-logo.jpeg" alt="Butcher Store logo"><span>BUTCHER <b>STORE</b></span></a>
+    <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="mainNav">Menu <i>☰</i></button>
+    <nav id="mainNav"><a href="#fortnite">Fortnite</a><a href="#psplus">PS Plus</a><a href="#playstation">PlayStation games</a><a href="#pcgames">PC games</a></nav>
+    <div class="header-actions"><button class="cart-button" id="openCart" type="button">Cart <span id="cartCount">0</span></button></div>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-text"><span class="kicker"><i></i> STOCK UP. DROP IN. PLAY.</span><h1>LEVEL UP<br><em>YOUR GAME.</em></h1><p>Fresh V-Bucks, memberships and games for your next session.</p><div class="hero-actions"><a href="#fortnite" class="button button-red">Explore the shop <span>↘</span></a><a href="#playstation" class="text-link">Browse PlayStation <span>↗</span></a></div><div class="hero-proof"><b>01</b><span>Four ways to play</span><b>02</b><span>Prices checked against MYM</span></div></div>
+      <div class="hero-mark"><div class="hero-ring"></div><img src="./assets/butcher-logo.jpeg" alt="Butcher Store gaming emblem"><span class="hero-tag">BUILT FOR PLAYERS</span></div>
+      <span class="hero-index">BS / 2026</span>
+    </section>
+    <nav class="jump-links" aria-label="Shop categories"><a href="#fortnite"><span class="jump-number">01</span><b>FORTNITE</b><small>Drop into the action</small><i>↗</i></a><a href="#psplus"><span class="jump-number">02</span><b>PS PLUS</b><small>More game, more you</small><i>↗</i></a><a href="#playstation"><span class="jump-number">03</span><b>PLAYSTATION</b><small>Find your next story</small><i>↗</i></a><a href="#pcgames"><span class="jump-number">04</span><b>PC GAMES</b><small>Build your library</small><i>↗</i></a></nav>
+
+    <section class="catalog-section section-fortnite" id="fortnite"><div class="section-heading"><div><span class="section-index">01 / THE ISLAND</span><h2>FORTNITE <em>SUPPLY</em></h2><p>Pick your V-Bucks pack or add Fortnite Crew.</p></div><span class="section-aside">V-BUCKS &amp; CREW</span></div><div class="product-grid" id="fortniteGrid" aria-live="polite"></div></section>
+
+    <section class="promo-band"><div class="promo-sign">＋</div><div><span class="section-index">02 / KEEP PLAYING</span><h2>YOUR SQUAD<br>IS <em>WAITING.</em></h2><p>Choose your PlayStation Plus membership.</p><a class="button button-light" href="#psplus">Find your plan <span>↘</span></a></div><span class="promo-note">ESSENTIAL · EXTRA · DELUXE</span></section>
+
+    <section class="catalog-section section-plus" id="psplus"><div class="section-heading"><div><span class="section-index">02 / MEMBERSHIP</span><h2>PLAYSTATION <em>PLUS</em></h2><p>Select a plan, then choose Primary or Secondary access when offered.</p></div><span class="section-aside">MORE TO PLAY</span></div><div class="product-grid" id="psplusGrid"></div></section>
+
+    <section class="catalog-section section-playstation" id="playstation"><div class="section-heading"><div><span class="section-index">03 / CONSOLE LIBRARY</span><h2>PLAYSTATION <em>GAMES</em></h2><p>PlayStation-style cover art with Primary and Secondary prices from MYM.</p></div><label class="search-field"><span>⌕</span><input id="gameSearch" type="search" placeholder="Find a game" aria-label="Search PlayStation games"></label></div><div class="product-grid" id="gamesGrid"></div><p class="empty-results" id="gamesEmpty" hidden>No games match your search.</p></section>
+
+    <section class="pc-banner"><div><span class="section-index">04 / DESKTOP LIBRARY</span><h2>MORE FRAMES.<br><em>MORE FIREPOWER.</em></h2><p>One clear price per PC game.</p><a class="button button-dark" href="#pcgames">Browse PC games <span>↘</span></a></div><div class="pc-graphic" aria-hidden="true"><span>PC</span><b>PLAY<br>YOUR<br><em>WAY</em></b></div></section>
+    <section class="catalog-section section-pc" id="pcgames"><div class="section-heading"><div><span class="section-index">04 / PC GAMES</span><h2>THE PC <em>DROP</em></h2><p>Steam poster art where available, with each price matched to MYM Primary.</p></div><span class="section-aside">ONE PRICE · EGP</span></div><div class="product-grid" id="pcgamesGrid"></div></section>
+  </main>
+  <footer class="footer"><a class="brand" href="#top"><img src="./assets/butcher-logo.jpeg" alt=""><span>BUTCHER <b>STORE</b></span></a><p>For the love of the game.</p><a href="#top">Back to top ↑</a></footer>
+
+  <dialog id="productDialog" class="modal"><button class="modal-close" type="button" data-close="productDialog" aria-label="Close">×</button><div id="productDialogContent"></div></dialog>
+  <dialog id="cartDialog" class="modal cart-modal"><button class="modal-close" type="button" data-close="cartDialog" aria-label="Close">×</button><span class="section-index">YOUR BAG</span><h2>Ready to <em>play?</em></h2><div id="cartLines"></div><div class="cart-total"><span>Subtotal</span><b id="cartSubtotal">EGP 0</b></div><p class="checkout-caption">Send an order request. We’ll contact you to confirm; checkout does not take payment.</p><form id="checkoutForm"><label>Phone number <sup>*</sup><input name="phone" type="tel" minlength="7" autocomplete="tel" placeholder="+20 1X XXX XXXX" required></label><label>Your name <small>OPTIONAL</small><input name="customerName" autocomplete="name" placeholder="Name"></label><label>Order note <small>OPTIONAL</small><textarea name="note" rows="3" placeholder="Anything we should know?"></textarea></label><button class="button button-red full" id="checkoutButton" type="submit">Send order request <span>↗</span></button></form></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./api-config.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>
